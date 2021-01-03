@@ -2,7 +2,7 @@
 //  main.cpp
 //  Design_pattern_002
 //
-//  Created by Aarisha Zahra Khan on 2021-01-01.
+//  Created by Manjur Khan on 2021-01-01.
 //
 
 #include <iostream>
